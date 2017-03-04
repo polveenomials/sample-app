@@ -15,6 +15,7 @@ group :development, :test do
   gem 'byebug',  '9.0.0', platform: :mri
   gem 'guard'
   gem 'guard-minitest'
+  gem 'rails-controller-testing'
 end
 
 group :development do
